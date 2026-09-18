@@ -41,29 +41,20 @@ CC/
             └── (44 total task evidence screenshots)
 
 
-## 📋 Executed Tasks Overview
+### Executed Tasks Overview
 
-| Task # | Category | Key Implementation Highlights |
-| --- | --- | --- |
-| **Task 1** | **GitHub Identity** | Profile setup with actual name **Samreen Zia** and username `samreenzia75`. |
-| **Task 2** | **Portal Setup** | Authenticated via GitHub OAuth and submitted enrollment for **SE-665**. |
-| **Task 3** | **VM Environment** | VMware Workstation Pro setup with 20+ GB allocated virtual disk space. |
-| **Tasks 4-12** | **Ubuntu Setup** | Configured English locale, US keyboard layout, and DHCP network interface. |
-| **Task 13** | **Linux Profile** | Assigned hostname `ubuntu` and user profile matching GitHub username. |
-| **Tasks 14-15** | **Verification** | Verified system prompt: `samreenzia75@ubuntu:~$`. |
-| **Task 16** | **IP Address** | Retrieved IPv4 address `192.168.121.129` using `ip addr`. |
-| **Task 17** | **Remote SSH** | Connected via PowerShell/CMD using `ssh samreenzia75@192.168.121.129`. |
-| **Task 18** | **Documentation** | Compiled all 31 evidence screenshots into `Lab1_Solution.pdf`. |
+The lab implementation commenced with setting up GitHub identity by configuring the actual profile name as **Samreen Zia** and the username as `samreenzia75`. Following this, registration on the Student Marks Portal was completed using GitHub OAuth authentication to submit the official enrollment for course SE-665. The virtual environment was then established using VMware Workstation Pro with over 20 GB of allocated virtual disk space.
+
+During the core Ubuntu Server setup across tasks 4 through 12, the system was configured with an English locale, US keyboard layout, and an automated DHCP network interface. For the Linux user profile, the hostname was designated as `ubuntu`, and the user account was aligned with the GitHub username. System deployment was verified upon reboot by confirming the active shell prompt format `samreenzia75@ubuntu:~$`.
+
+Network connectivity was established after retrieving the assigned IPv4 address (`192.168.121.129`) via the `ip addr` command, enabling a successful remote SSH connection from the Windows Command Prompt using `ssh samreenzia75@192.168.121.129`. Finally, all 31 mandatory evidence screenshots were compiled into the final `Lab1_Solution.pdf` document and structured within the repository.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Host OS:** Windows 11
 * **Virtualization:** VMware Workstation Pro
 * **Guest OS:** Ubuntu Server LTS
 * **Remote Access:** OpenSSH Client & Server
 * **Version Control:** Git & GitHub
-
----
-
