@@ -38,7 +38,7 @@ CC/
             ├── lab01_folder_structure.png
             ├── github_profile.png
             ├── ubuntu_identity_verified.png
-            └── (31 total task evidence screenshots)
+            └── (44 total task evidence screenshots)
 
 Yeh lijiye, bilkul professional aur well-formatted **README.md** code. Is pure box ke andar ke content ko copy karke apni file mein paste kar dein:
 
