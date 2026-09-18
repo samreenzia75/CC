@@ -40,53 +40,6 @@ CC/
             ├── ubuntu_identity_verified.png
             └── (44 total task evidence screenshots)
 
-Yeh lijiye, bilkul professional aur well-formatted **README.md** code. Is pure box ke andar ke content ko copy karke apni file mein paste kar dein:
-
-```markdown
-# Lab 01: GitHub Identity, Student Portal Registration & Ubuntu Server Setup
-
-<p align="center">
-  <b>Department of Software Engineering</b><br>
-  <b>Fatima Jinnah Women University, Rawalpindi</b>
-</p>
-
----
-
-## 👤 Student Profile
-- **Name:** Samreen Zia
-- **Registration No:** FA24B1-SE-067
-- **Course Name:** Cloud Computing (SE-665)
-- **Section:** Section A
-- **GitHub Username:** [samreenzia75](https://github.com/samreenzia75)
-
----
-
-## 🎯 Lab Objectives
-1. Configure professional GitHub profile identity.
-2. Register and link GitHub account with the Student Marks Portal.
-3. Install and configure Ubuntu Server inside VMware Workstation Pro.
-4. Verify Linux identity prompt (`samreenzia75@ubuntu:~$`).
-5. Establish a successful remote SSH connection from Windows Command Prompt.
-6. Organize repository evidence and submit `Lab1_Solution.pdf`.
-
----
-
-## 📁 Repository Structure
-```text
-CC/
-└── Labs/
-    └── Lab01/
-        ├── README.md
-        ├── Lab1_Solution.pdf
-        └── screenshots/
-            ├── lab01_folder_structure.png
-            ├── github_profile.png
-            ├── ubuntu_identity_verified.png
-            └── (31 total task evidence screenshots)
-
-```
-
----
 
 ## 📋 Executed Tasks Overview
 
