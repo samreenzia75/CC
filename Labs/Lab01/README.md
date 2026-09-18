@@ -41,20 +41,20 @@ CC/
             └── (44 total task evidence screenshots)
 
 
-### Executed Tasks Overview
+Executed Tasks Overview
+The lab implementation commenced with setting up GitHub identity by configuring the actual profile name as Samreen Zia and the username as samreenzia75. Following this, registration on the Student Marks Portal was completed using GitHub OAuth authentication to submit the official enrollment for course SE-665. The virtual environment was then established using VMware Workstation Pro with over 20 GB of allocated virtual disk space.
 
-The lab implementation commenced with setting up GitHub identity by configuring the actual profile name as **Samreen Zia** and the username as `samreenzia75`. Following this, registration on the Student Marks Portal was completed using GitHub OAuth authentication to submit the official enrollment for course SE-665. The virtual environment was then established using VMware Workstation Pro with over 20 GB of allocated virtual disk space.
+During the core Ubuntu Server setup across tasks 4 through 12, the system was configured with an English locale, US keyboard layout, and an automated DHCP network interface. For the Linux user profile, the hostname was designated as ubuntu, and the user account was aligned with the GitHub username. System deployment was verified upon reboot by confirming the active shell prompt format samreenzia75@ubuntu:~$.
 
-During the core Ubuntu Server setup across tasks 4 through 12, the system was configured with an English locale, US keyboard layout, and an automated DHCP network interface. For the Linux user profile, the hostname was designated as `ubuntu`, and the user account was aligned with the GitHub username. System deployment was verified upon reboot by confirming the active shell prompt format `samreenzia75@ubuntu:~$`.
+Network connectivity was established after retrieving the assigned IPv4 address (192.168.121.129) via the ip addr command, enabling a successful remote SSH connection from the Windows Command Prompt using ssh samreenzia75@192.168.121.129. Finally, all 31 mandatory evidence screenshots were compiled into the final Lab1_Solution.pdf document and structured within the repository.
 
-Network connectivity was established after retrieving the assigned IPv4 address (`192.168.121.129`) via the `ip addr` command, enabling a successful remote SSH connection from the Windows Command Prompt using `ssh samreenzia75@192.168.121.129`. Finally, all 31 mandatory evidence screenshots were compiled into the final `Lab1_Solution.pdf` document and structured within the repository.
+Tech Stack & Tools
+Host OS: Windows 11
 
----
+Virtualization: VMware Workstation Pro
 
-### Tech Stack & Tools
+Guest OS: Ubuntu Server LTS
 
-* **Host OS:** Windows 11
-* **Virtualization:** VMware Workstation Pro
-* **Guest OS:** Ubuntu Server LTS
-* **Remote Access:** OpenSSH Client & Server
-* **Version Control:** Git & GitHub
+Remote Access: OpenSSH Client & Server
+
+Version Control: Git & GitHub
