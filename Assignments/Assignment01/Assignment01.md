@@ -30,15 +30,15 @@
 
 
 
-**!\[Gitea running](screenshots/task1\_gitea\_running.png)**
+**!\[Gitea running](screenshots/task1\_gitea\_running.png.png)**
 
 
 
-**!\[Gitea push](screenshots/task1\_gitea\_push.png)**
+**!\[Gitea push](screenshots/task1\_gitea\_push.png.png)**
 
 
 
-**!\[Gitea repository](screenshots/task1\_gitea\_repository.png)**
+**!\[Gitea repository](screenshots/task1\_gitea\_repository.png.png)**
 
 
 
@@ -56,15 +56,15 @@
 
 
 
-**!\[Git remotes](screenshots/task2\_remotes.png)**
+**!\[Git remotes](screenshots/task2\_remotes.png.png)**
 
 
 
-**!\[GitHub push](screenshots/task2\_github\_push.png)**
+**!\[GitHub push](screenshots/task2\_github\_push.png.png)**
 
 
 
-**!\[GitHub repository](screenshots/task2\_github\_repository.png)**
+**!\[GitHub repository](screenshots/task2\_github\_repository.png.png)**
 
 
 
@@ -88,15 +88,15 @@
 
 
 
-**!\[Git LFS setup](screenshots/task3\_lfs\_setup.png)**
+**!\[Git LFS setup](screenshots/task3\_lfs\_setup.png.png)**
 
 
 
-**!\[Git LFS files](screenshots/task3\_lfs\_files.png)**
+**!\[Git LFS files](screenshots/task3\_lfs\_files.png.png)**
 
 
 
-**!\[Git LFS push](screenshots/task3\_lfs\_push.png)**
+**!\[Git LFS push](screenshots/task3\_lfs\_push.png.png)**
 
 
 
@@ -116,13 +116,13 @@
 
 
 
-**!\[Portfolio repository](screenshots/task4\_pages\_repository.png)**
+**!\[Portfolio repository](screenshots/task4\_pages\_repository.png.png)**
 
 
 
-**!\[GitHub Pages deployment](screenshots/task4\_pages\_deployment.png)**
+**!\[GitHub Pages deployment](screenshots/task4\_pages\_deployment.png.png)**
 
 
 
-**!\[Live portfolio website](screenshots/task4\_portfolio\_live.png)**
+**!\[Live portfolio website](screenshots/task4\_portfolio\_live.png.png)**
 
