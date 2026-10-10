@@ -57,7 +57,8 @@
 
 ### Screenshots
 
-![Portfolio repository](screenshots/task4_pages_repository.png.png)
+<img width="959" height="500" alt="task4_pages_repository png" src="https://github.com/user-attachments/assets/47be5d29-36a9-4b14-94f2-3016202d0578" />
+
 
 ![GitHub Pages deployment](screenshots/task4_pages_deployment.png.png)
 
